@@ -1,0 +1,1 @@
+console.log("hello tkuim這是ts");
